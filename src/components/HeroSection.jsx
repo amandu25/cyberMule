@@ -6,7 +6,7 @@ function HeroSection() {
           Complete <span className="text-[#00BF63]">Modern IT Security </span>
           in One Pane of Glass with Microsoft 365
         </p>
-        <p className="text-[#E2EEFF] font-[21.8px] w-[420px]">
+        <p className="text-[#E2EEFF] font-[21.8px] w-[420px] leading-relaxed">
           We are a dynamic software development company dedicated to crafting
           innovative solutions that empower businesses and drive digital
           transformation.
