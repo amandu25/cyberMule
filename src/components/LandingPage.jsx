@@ -1,14 +1,13 @@
 import HeroSection from "./HeroSection";
 import Navbar from "./Navbar";
-import Services from "./services";
-
+import Cards from "./Cards";
 function LandingPage() {
   return (
     <div className="bg-[#02152d] h-[100%]">
       <div className="bg-[#02152d] ml-[220px] ">
         <Navbar></Navbar>
         <HeroSection />
-        <Services />
+        <Cards />
       </div>
     </div>
   );

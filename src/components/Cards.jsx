@@ -1,4 +1,4 @@
-function Services() {
+function Cards() {
   return (
     <div className="flex gap-[52px] mr-[220px] pb-10">
       <div className="bg-[#021936] rounded-xl flex flex-col gap-5 text-[#FFFFFF] w-[400px] h-[300px] p-6">
@@ -95,4 +95,4 @@ function Services() {
   );
 }
 
-export default Services;
+export default Cards;
