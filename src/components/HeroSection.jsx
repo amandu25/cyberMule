@@ -18,7 +18,7 @@ function HeroSection() {
       <div>
         <img
           className="opacity-[34%] h-[470px] w-[760px] "
-          src="src/assets/HeroImage.png"
+          src="/assets/HeroImage.png"
           alt="hero"
         />
       </div>

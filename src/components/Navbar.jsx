@@ -3,7 +3,7 @@ function Navbar() {
     <div className="flex justify-between h-[100px] items-center">
       <div className="w-[176px] h-[75px]">
         {" "}
-        <img src="src/assets/Logo.png" alt="logo" />
+        <img src="/assets/Logo.png" alt="logo" />
       </div>
 
       <div>
